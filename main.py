@@ -195,7 +195,7 @@ def root():
         "index_source": INDEX_SOURCE,
         "columns": SEARCH_FIELDS,
         "docs": "/docs",
-        "developer": "@kzr0x | channel @api_wallah",   # <-- credit added
+        "developer": "@shadowsec | channel @shadowsec",   # <-- credit added
     }
 
 
@@ -370,7 +370,7 @@ def build_ui():
         gr.Markdown(
             "---\n"
             "<div class='footer'>"
-            "👨‍💻 **Developer:** @kzr0x  |  📢 **Channel:** @api_wallah"
+            "👨‍💻 **Developer:** @shadowsec  |  📢 **Channel:** @shadowsec"
             "</div>",
             elem_classes="footer"
         )
